@@ -1,5 +1,0 @@
-
-      [console_scripts]
-      register_notify_token = notifybot:register_token
-      send_notify = notifybot:main
-      
