@@ -126,7 +126,7 @@ def register_token():
 def main():
     import argparse
     parser = argparse.ArgumentParser(
-        description='Register LINE Notify API token',
+        description='Send LINE Notify message',
         epilog='end',
         add_help=True,
         )
