@@ -1,5 +1,5 @@
 # NotifyBot
-Python client for LINE Notify API 
+Python client for LINE Notify API. API document: [Here](https://notify-bot.line.me/doc/en/) 
 
 ## Installation 
 1) Clone this repository
