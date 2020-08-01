@@ -1,0 +1,9 @@
+README.md
+setup.py
+NotifyBot.egg-info/PKG-INFO
+NotifyBot.egg-info/SOURCES.txt
+NotifyBot.egg-info/dependency_links.txt
+NotifyBot.egg-info/entry_points.txt
+NotifyBot.egg-info/top_level.txt
+notifybot/__init__.py
+notifybot/notifybot.py
